@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-  SNS link<br>
+  link ^▽^7<br>
 <a href="https://www.instagram.com/kimwang0009/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://discordapp.com/users/%ED%98%84%EB%B9%88#6057" target="_blank">
