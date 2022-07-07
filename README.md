@@ -1,9 +1,3 @@
-<style>
-  header {
-    align = "center"
-  }
-</style>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=KimWang09%20&fontSize=90&fontColor=ffffff)
 
 
