@@ -1,12 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=KimWang09%20&fontSize=90&fontColor=ffffff)
 
 
-<p align="center">배우고 있는 언어</p>
+<p align="center">배우고 있는 것들</p>
 <p align="center">
   <img align="center" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/HTML-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/CSS-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/PHP-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/OS-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <br>
   <br>
   <br>
