@@ -2,4 +2,4 @@
 
 <img align="center" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 
-<a href="https://www.instagram.com/kimwang0009/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a align="center" href="https://www.instagram.com/kimwang0009/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
