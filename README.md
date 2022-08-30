@@ -34,3 +34,5 @@
   <a href="https://internals.rust-lang.org/u/kimwang906/" target="_blank">
     <img src="https://img.shields.io/badge/Rust_Community-41BDF5?style=flat-square&logo=HomeAssistantCommunityStore&logoColor=white"/></a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiseok12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
