@@ -22,13 +22,6 @@
   <img align="center" src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=linux&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 </p>
-  <br>
-  <br>
-  <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimWang906&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  <br>
-  <br>
 <p align="center">Link ^ㅁ^7</p>
 <p align="center">
   <a href="https://www.instagram.com/kimwang0009/" target="_blank">
@@ -38,3 +31,4 @@
   <a href="https://internals.rust-lang.org/u/kimwang906/" target="_blank">
     <img src="https://img.shields.io/badge/Rust_Community-41BDF5?style=flat-square&logo=HomeAssistantCommunityStore&logoColor=white"/></a>
 </p>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimWang906&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
