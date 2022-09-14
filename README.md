@@ -23,6 +23,8 @@
   <img align="center" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimWang906&show_icons=true&theme=radical)
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimWang906&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 <p align="center">Link ^ㅁ^7</p>
