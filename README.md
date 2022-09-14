@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=KimWang906&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
 
-<img width="100%" src="/crab.gif"/>
+<img width="50%" src="/crab.gif"/>
 
 <div align="center">
     
