@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=KimWang09%20&fontSize=90&fontColor=ffffff)
 
+![GitHub Logo](/crab.gif)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimWang906&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">배우고 있는 것들</p>
@@ -23,7 +25,9 @@
   <img align="center" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimWang906&show_icons=true&theme=radical)
+
+
+![KimWang906's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimWang906&show_icons=true&theme=radical)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimWang906&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
