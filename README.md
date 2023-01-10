@@ -41,6 +41,6 @@ Techs i've used least one <br/>
 
 ## Now
 
-I am currently learning computer architecture and system programming through xv6.
+I'm learning and learning the Rust language.
 
 </div>
