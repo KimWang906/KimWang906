@@ -11,7 +11,7 @@
     Hi there! 👋
     I'm student of Busan Software Meister High School.
     
-    I am studying Rust and am studying system programming by modifying xv6-riscv open source in C language.
+    I am studying Rust and am studying system programming(linux, windows ...)!
     
     My hobby is to search and study video editing and information security related materials.
 
